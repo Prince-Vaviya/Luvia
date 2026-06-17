@@ -1,3 +1,6 @@
+
+![Alt Text](Luvia-Cover.png "Luvia-Cover")
+
 # Luvia
 
 > **Comfort you trust. Care they deserve.**
